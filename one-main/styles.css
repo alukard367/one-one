@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600;700;900&family=Shadows+Into+Light&display=swap');
+
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Shadows Into Light', cursive; */
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.ecoy {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.8rem;
+    letter-spacing: -2px;
+    font-weight: 900;
+}
+
+body::before {
+    display: none;
+    content: '';
+    height: 60px;
+}
+
+
+
+.custom-card {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: 40vh;
+}
+.img-1 {
+    background-image: url(./img/pexels-nikita-igonkin-10038447.jpg);
+}.img-2 {
+    background-image: url(./img/pexels-pixabay-276452.jpg);
+}.img-3 {
+    background-image: url(./img/tech-code.jpg);
+}.img-4 {
+    background-image: url(./img/undraw_my_app_re_gxtj.png);
+}   
+
+.h2-px {
+    font-size: 25px;
+}
+
+.h4-px {
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
